@@ -10,7 +10,7 @@ This guide provides step-by-step instructions to set up your environment, clone 
 Open your terminal (or use a Git client) and clone the repository using the following command:
 
 ```
-git clone https://anonymous.4open.science/r/ECE-570-Research-Paper-SOAR/
+git clone https://anonymous.4open.science/r/ECE-570-Research-Paper-SOAR/](https://anonymous.4open.science/r/ECE-570-Final-Research-Paper-24DE/
 ```
 
 This will create a local copy of all the project files, including the Jupyter Notebook (`final_soar_implementation.ipynb`), data files, and any supporting modules.
