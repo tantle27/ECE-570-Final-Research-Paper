@@ -1,8 +1,7 @@
-# ECE-570-Research-Paper
-
 # Usage Guide for the SOAR Implementation
 
 This guide provides step-by-step instructions to set up your environment, clone the repository, and run the provided Jupyter Notebook to reproduce the experimental results for the SOAR project.
+
 
 ---
 
